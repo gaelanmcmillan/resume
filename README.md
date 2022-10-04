@@ -1,4 +1,4 @@
-Thanks for reading my resume!
+Thanks for reading my [resume](https://github.com/gaelanmcmillan/resume/blob/main/Resume_GM.pdf)!
 
 See my projects as well.
 + An [interactive logo](https://gaelanmcmillan.github.io/tmu-acc-logo-animation/) for the Toronto Metropolitan Algorithms and Coding Club - see the repository [here](https://github.com/gaelanmcmillan/tmu-acc-logo-animation) to read more.
